@@ -28,7 +28,7 @@ Nazwisko: Królik<BR>
 
            <TD><P>Pierwszym serialem jaki chciałabym wam polecić jest "Shadowhunters". Opowiada on o dziewczynie, która prowadziła do swoich osiemnastych urodzin normalne życie. Jednak wszystko się zmieniło. Główna bohaterka odkryła, że jest Nocnym Łowcą. Dziewczyna wkracza w magiczny świat wraz ze swoimi przyjaciółmi.</P>
            
-            <IMG SRC=        >
+            <IMG SRC= "shadowhunters_1920x1080_by_gyrfalcon65-d9satis.jpg"       >
 
        </TD>
         
