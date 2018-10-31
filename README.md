@@ -1,10 +1,13 @@
 <HTML>
 <HEAD>
-<TITLE>Strona o Zuzannie</TITLE>
+   <meta charset = "UTF-8">
+   <meta name = "description" content = "Strona zawiera informacje na temat seriali, które ostatnio oglądałam.>
+
+<TITLE> Strona o serialach i filmach mlodzieżowych. </TITLE>
 </HEAD>
 
-<BODY style="font-size: 30px;">
-<H1 style="text-align: center; color: pink; background-color: black; ">TO JEST STRONA O MNIE</H1><BR>
+<BODY style="font-size: 40px;">
+<H1 style="text-align: center; color: pink; background-color: black; ">Strona o serialach i filmach dla młodzieży.</H1><BR>
 Moje imię: Roksana<BR>
 Nazwisko: Królik<BR>
 
@@ -12,23 +15,25 @@ Nazwisko: Królik<BR>
    <TR style="font-size: 23px;" >
        
        <TD>
-       <IMG SRC="osoba.jpg">
+       <IMG SRC=        >
 </TD>
- <TD><P>Coś o sobie muszę napisać.Urodziłam się w 2001 roku.
-            Obecnie mam 17 lat. Chodzę do szkoły w Owczarach.</P>
+ <TD><P>Nazywam się Roksana.
+   Jestem osobą fikcyjną.
+   Na mojej stronie będę polecać seriale mlodzieżowe,które oglądnęłam w ostatnim czasie. Będę chciała wam również polecić kilka z      wymienionych seriali ponieważ bardzo mi się one spodobały.Myślę, że wam również się spodobają.</P>
 
-           <P>W mojej szkole mam wiele przyjaciół. Moja najlepsza przyjaciółka to Hanka Halcok. Bardzo miła przyjaciółka.</P>
+          
        </TD>
 </TR>
 <TR style="font-size: 23px;">
 
-           <TD><P>Coś o sobie muszę napisać.Urodziłam się w 2001 roku.
-            Obecnie mam 17 lat. Chodzę do szkoły w Owczarach.</P>
+           <TD><P>Pierwszym serialem jaki chciałabym wam polecić jest "Shadowhunters". Opowiada on o dziewczynie, która prowadziła do swoich osiemnastych urodzin normalne życie. Jednak wszystko się zmieniło. Główna bohaterka odkryła, że jest Nocnym Łowcą. Dziewczyna wkracza w magiczny świat wraz ze swoimi przyjaciółmi.</P>
+           
+            <IMG SRC=        >
 
-           <P>W mojej szkole mam wiele przyjaciół. Moja najlepsza przyjaciółka to Hanka Halcok. Bardzo miła przyjaciółka.</P>
        </TD>
+        
         <TD>
-       <IMG SRC="osoba.jpg">
+       <IMG SRC=        >
 </TD>
 </TR>
  
