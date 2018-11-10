@@ -7,7 +7,7 @@
 
 </HEAD>
 
-<BODY style="font-size: 90px;">
+<BODY style="font-size: 60px;">
 
 <H1 style="text-align: center; color: silver; background-color: white; ">Strona o filmach dla młodzieży.</H1><BR>
 
