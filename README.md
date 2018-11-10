@@ -39,7 +39,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 
 <TD>
  
-  <IMG SRC= 45809601_942289135965733_5688116822667165696_n.jpg HEIGHT="300" WEIGHT="250" >
+  <IMG SRC= 45809601_942289135965733_5688116822667165696_n.jpg HEIGHT="400" WEIGHT="300" >
  
  </TD>
 
