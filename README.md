@@ -27,9 +27,8 @@ Nazwisko: Królik<BR>
  
 
 <TD>
-   <TR style="font-size: 39px;" >
-
   
+
 <P>Nazywam się Roksana.
 Jestem osobą fikcyjną.
 Na mojej stronie będę polecać seriale mlodzieżowe,które oglądnęłam w ostatnim czasie. Będę chciała wam również polecić kilka z      wymienionych seriali ponieważ bardzo mi się one spodobały.Myślę, że wam również się spodobają.</P>
