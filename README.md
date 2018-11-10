@@ -11,13 +11,15 @@
 
 <H1 style="text-align: center; color: tan; background-color: black; ">Strona o serialach i filmach dla młodzieży.</H1><BR>
 
+<TR style="font-size: 50px;">
 Moje imię: Roksana<BR>
 Nazwisko: Królik<BR>
+ </TR>
 
 <TABLE>
 
 
- <TR style="font-size: 30px;" >
+ <TR style="font-size: 40px;" >
 
 
 <TD>
