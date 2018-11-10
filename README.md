@@ -12,7 +12,7 @@
 <H1 style="text-align: center; color: khaki; background-color: white; ">Strona o serialach i filmach dla młodzieży.</H1><BR>
 
 <TR style="font-size: 70px;">
-<H1 style="text-align: center; color: khaki; background-color: white; ">Strona o serialach i filmach dla młodzieży.</H1><BR>
+<H1 style="text-align: center; color: khaki; background-color: white; ">Moje imię: Roksana Nazwisko: Królik.</H1><BR>
 
 Moje imię: Roksana<BR>
 Nazwisko: Królik<BR>
@@ -24,7 +24,9 @@ Nazwisko: Królik<BR>
 
 
 <TD>
-  <H1 style="text-align: center; color: khaki; background-color: white; ">Strona o serialach i filmach dla młodzieży.</H1><BR>
+  <H1 style="text-align: center; color: khaki; background-color: white; ">Nazywam się Roksana.
+Jestem osobą fikcyjną.
+Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostatnim czasie. Będę chciała wam również polecić kilka z      wymienionych filmów ponieważ bardzo mi się one spodobały.Myślę, że wam również się spodobają.</H1><BR>
 
 
 <P>Nazywam się Roksana.
@@ -47,7 +49,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 
 <TD>
   <CENTER>
-    <H1 style="text-align: center; color: khaki; background-color: white; ">Strona o serialach i filmach dla młodzieży.</H1><BR>
+    <H1 style="text-align: center; color: khaki; background-color: white; "></H1><BR>
 
   
   <P>Pierwszym filmem jaki chciałabym wam polecić jest film pt:"Do wszystkich chłopców których kochałam". Jest to amerykańska komedia romantyczna, która miała swoją premierę 17 sierpnia 2018 roku.Nieśmiała Lara Jean pisze listy do chłopców, których darzyła sympatią. To był jej sposób na odreagowanie emocji, ale wkrótce niewinne zapiski trafiają do adresatów, a życie nastolatki wywraca się do góry nogami.</P>   
@@ -63,7 +65,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
   
  <TD> 
   <center>
-  <H1 style="text-align: center; color: khaki; background-color: white; ">Strona o serialach i filmach dla młodzieży.</H1><BR>
+  <H1 style="text-align: center; color: khaki; background-color: white; "></H1><BR>
 
   <P>Drugim filmem jaki serdecznie polecam jest "The kissing booth". Opowiada on o głównej bohaterce Elle, która przyjaźni się od zawsze z Lee. Zakochuje się w chłopcu o imieniu Noah przez tytułową, całuśną budkę, jednak ich relacja to typ zakazanej miłości. </P>
   
