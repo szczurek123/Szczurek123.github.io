@@ -36,7 +36,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 
 <TD>
   <center>
-    <P>Pierwszym filmem jaki chciałabym wam polecić jest film pt:"Do wszystkich chłopców których kochałam". Jest to amerykańska komedia romantyczna, która miała swoją premierę 17 sierpnia 2018 roku.Nieśmiała Lara Jean pisze listy do chłopców, których darzyła sympatią. To był jej sposób na odreagowanie emocji, ale wkrótce niewinne zapiski trafiają do adresatów, a życie nastolatki wywraca się do góry nogami. </P>
+    <P>Pierwszym filmem jaki chciałabym wam polecić jest film pt:<B."Do wszystkich chłopców których kochałam".</B> Jest to amerykańska komedia romantyczna, która miała swoją premierę 17 sierpnia 2018 roku.Nieśmiała Lara Jean pisze listy do chłopców, których darzyła sympatią. To był jej sposób na odreagowanie emocji, ale wkrótce niewinne zapiski trafiają do adresatów, a życie nastolatki wywraca się do góry nogami. </P>
     
   </center>
 </TD>
@@ -51,7 +51,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
  <TD> 
   <center>
   
-<P>Drugim filmem jaki serdecznie polecam jest "The kissing booth". Opowiada on o głównej bohaterce Elle, która przyjaźni się od zawsze z Lee. Zakochuje się w chłopcu o imieniu Noah przez tytułową, całuśną budkę, jednak ich relacja to typ zakazanej miłości. </P>
+<P>Drugim filmem jaki serdecznie polecam jest <B>"The kissing booth".</B> Opowiada on o głównej bohaterce Elle, która przyjaźni się od zawsze z Lee. Zakochuje się w chłopcu o imieniu Noah przez tytułową, całuśną budkę, jednak ich relacja to typ zakazanej miłości. </P>
 
   
   </center>
