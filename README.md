@@ -29,16 +29,16 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 
 <TD>
  
-  <IMG SRC= 45809601_942289135965733_5688116822667165696_n.jpg HEIGHT="400" WEIGHT="300" >
+  <IMG SRC= 45809601_942289135965733_5688116822667165696_n.jpg  >
  
  </TD>
 
 
 <TD>
-  <center>
-    <P>Pierwszym filmem jaki chciałabym wam polecić jest film pt:<B>"Do wszystkich chłopców których kochałam".</B> Jest to amerykańska komedia romantyczna, która miała swoją premierę 17 sierpnia 2018 roku.Nieśmiała Lara Jean pisze listy do chłopców, których darzyła sympatią. To był jej sposób na odreagowanie emocji, ale wkrótce niewinne zapiski trafiają do adresatów, a życie nastolatki wywraca się do góry nogami. </P>
+  
+    <P> align="center" Pierwszym filmem jaki chciałabym wam polecić jest film pt:<B>"Do wszystkich chłopców których kochałam".</B> Jest to amerykańska komedia romantyczna, która miała swoją premierę 17 sierpnia 2018 roku.Nieśmiała Lara Jean pisze listy do chłopców, których darzyła sympatią. To był jej sposób na odreagowanie emocji, ale wkrótce niewinne zapiski trafiają do adresatów, a życie nastolatki wywraca się do góry nogami. </P>
     
-  </center>
+
 </TD>
 
  
