@@ -37,7 +37,7 @@ Na mojej stronie będę polecać seriale mlodzieżowe,które oglądnęłam w ost
 
 </TR>
 
-<TR style="font-size: 70px;">
+<TR style="font-size: 40px;">
 
 <TD><P>Pierwszym serialem jaki chciałabym wam polecić jest "Shadowhunters". Opowiada on o dziewczynie, która prowadziła do swoich osiemnastych urodzin normalne życie. Jednak wszystko się zmieniło. Główna bohaterka odkryła, że jest Nocnym Łowcą. Dziewczyna wkracza w magiczny świat wraz ze swoimi przyjaciółmi.</P>         
 
@@ -45,7 +45,7 @@ Na mojej stronie będę polecać seriale mlodzieżowe,które oglądnęłam w ost
 
  <TD>
 
-    <IMG SRC= "148349.jpg"        >
+    <IMG SRC= "148349.jpg">
 
 </TD>
 
