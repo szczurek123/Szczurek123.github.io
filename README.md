@@ -21,7 +21,7 @@ Nazwisko: Królik<BR>
 
 <TD>
 
- <IMG SRC=        >
+ <IMG SRC= DgJ8d34UYAAgEg2.jpg        >
 
 </TD>
 
