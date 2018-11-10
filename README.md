@@ -64,11 +64,11 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 
 
 <TD>
-  <TR style= "font-size: 30px;">
   
-  <IMG SRC= 45734196_2578309362187195_331659496310964224_n.jpg >
+  
+  <IMG SRC= 45734196_2578309362187195_331659496310964224_n.jpg HEIGHT="400" WEIGHT="200" >
+  
  
- </TR>
 </TD>
 
 
