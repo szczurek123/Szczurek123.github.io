@@ -18,7 +18,7 @@ Nazwisko: Królik.</H1><BR>
 
  </TR>
 
- <TR style="font-size: 50px;" >
+ <TR style="font-size: 30px;" >
 
 <TD>
 
@@ -51,7 +51,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
  </TR>
 
 
-<TR style ="font-size: 25px;">
+<TR style ="font-size: 30px;">
   
   
  <TD> 
