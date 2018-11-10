@@ -31,13 +31,12 @@ Na mojej stronie będę polecać seriale mlodzieżowe,które oglądnęłam w ost
 
 </TR>
 
-<TR style="font-size: 40px;">
+
 
 <TD><P>Pierwszym serialem jaki chciałabym wam polecić jest "Shadowhunters". Opowiada on o dziewczynie, która prowadziła do swoich osiemnastych urodzin normalne życie. Jednak wszystko się zmieniło. Główna bohaterka odkryła, że jest Nocnym Łowcą. Dziewczyna wkracza w magiczny świat wraz ze swoimi przyjaciółmi.</P>         
 
  </TD>
  
-  </TR>
 
  <TD>
 
@@ -50,7 +49,7 @@ Na mojej stronie będę polecać seriale mlodzieżowe,które oglądnęłam w ost
   
   <TD>
   
-   
+   <TD><P>Kolejnym serialem jaki chciałabym wam polecić jest "Riverdale". Serial liczy 3 sezony.Akcja toczy się we współczesności i skupia się na życiu grupy nastolatków, którzy rozwiązują zagadki mrocznego miasteczka. Zarówno poznają jego tajemnice i przeszłość.</P> 
 
   
   </TD>
