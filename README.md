@@ -50,7 +50,10 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 
  
  </TR>
- <TR style ="font-size: 20px;">
+
+
+<TR style ="font-size: 30px;">
+  
   
  <TD>
   
@@ -58,26 +61,21 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
   
 </TD>
 
+<TR style="font-size: 30px;>
+
 <TD>
   
   
   <IMG SRC= 45734196_2578309362187195_331659496310964224_n.jpg >
  
  
- 
-
 </TD>
+
+</TR>
   
   
 </TABLE>
 
-<TABLE>
-  
-  <TD>
-  
-  </TD>
-  
-  </TABLE>
 
                                                                                                       
 </HTML>
