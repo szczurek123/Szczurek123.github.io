@@ -41,7 +41,7 @@ Na mojej stronie będę polecać seriale mlodzieżowe,które oglądnęłam w ost
 
  <TD>
 
-   <IMG SRC= DgJ8d34UYAAgEg2.jpg        >
+   <IMG SRC=        >
 
 
 </TD>
@@ -50,7 +50,7 @@ Na mojej stronie będę polecać seriale mlodzieżowe,które oglądnęłam w ost
   
   <TD>
   
-  <IMG SRC= DgJ8d34UYAAgEg2.jpg        >
+   
 
   
   </TD>
