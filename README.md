@@ -7,7 +7,7 @@
 
 </HEAD>
 
-<BODY style="font-size: 40px;">
+<BODY style="font-size: 60px;">
 
 <H1 style="text-align: center; color: silver; background-color: white; ">Strona o filmach dla młodzieży.</H1><BR>
 
@@ -18,11 +18,9 @@ Nazwisko: Królik.
 
  </TR>
 
- <TR style="font-size: 30px;" >
+ <TR style="font-size: 20px;" >
 
-<TD>
-
-<P>Nazywam się Roksana.
+<TD><P>Nazywam się Roksana.
 Jestem osobą fikcyjną.
 Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostatnim czasie. Będę chciała wam również polecić kilka z      wymienionych filmów ponieważ bardzo mi się one spodobały.Myślę, że wam również się spodobają.</P>
 
@@ -31,7 +29,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 </TR>
 
 <TABLE>
-     <TR style="font-size: 30px;">
+     <TR style="font-size: 20px;">
 
 <TD>
  
