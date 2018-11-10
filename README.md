@@ -7,14 +7,14 @@
 
 </HEAD>
 
-<BODY style="font-size: 60px;">
+<BODY style="font-size: 40px;">
 
 <H1 style="text-align: center; color: silver; background-color: white; ">Strona o filmach dla młodzieży.</H1><BR>
 
 <TR style="font-size: 40px;">
 
 Moje imię: Roksana 
-Nazwisko: Królik.</H1><BR>
+Nazwisko: Królik.
 
  </TR>
 
