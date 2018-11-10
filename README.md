@@ -1,4 +1,4 @@
-<HTML>
+ <HTML>
 <HEAD>
 <meta charset = "UTF-8">
 <meta name = "description" content = "Strona zawiera informacje na temat filmów, które ostatnio oglądałam.>
@@ -16,7 +16,6 @@ Moje imię: Roksana<BR>
 Nazwisko: Królik<BR>
  </TR>
 
-<TABLE>
 
 
  <TR style="font-size: 40px;" >
@@ -30,6 +29,8 @@ Jestem osobą fikcyjną.
 Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostatnim czasie. Będę chciała wam również polecić kilka z      wymienionych filmów ponieważ bardzo mi się one spodobały.Myślę, że wam również się spodobają.</P>
 
 </TD>
+
+<TABLE>
 
 
 <TD>
