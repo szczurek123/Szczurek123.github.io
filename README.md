@@ -1,4 +1,4 @@
- <HTML>
+  <HTML>
 <HEAD>
 <meta charset = "UTF-8">
 <meta name = "description" content = "Strona zawiera informacje na temat filmów, które ostatnio oglądałam.>
@@ -30,18 +30,16 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 
 </TD>
 
+</TR>
+
 <TABLE>
 
 
 <TD>
  
-  <IMG SRC= >
+  <IMG SRC= 45809601_942289135965733_5688116822667165696_n.jpg  >
  
  </TD>
-
-</TR>
-
-
 
 <TD><P>Pierwszym filmem jaki chciałabym wam polecić jest film pt:"Do wszystkich chłopców których kochałam". Jest to amerykańska komedia romantyczna, która miała swoją premierę 17 sierpnia 2018 roku.Nieśmiała Lara Jean pisze listy do chłopców, których darzyła sympatią. To był jej sposób na odreagowanie emocji, ale wkrótce niewinne zapiski trafiają do adresatów, a życie nastolatki wywraca się do góry nogami.</P>         
 
