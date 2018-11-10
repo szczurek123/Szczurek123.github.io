@@ -1,9 +1,9 @@
 <HTML>
 <HEAD>
 <meta charset = "UTF-8">
-<meta name = "description" content = "Strona zawiera informacje na temat seriali, które ostatnio oglądałam.>
+<meta name = "description" content = "Strona zawiera informacje na temat filmów, które ostatnio oglądałam.>
 
-<TITLE> Strona o serialach i filmach mlodzieżowych. </TITLE>
+<TITLE> Strona o filmach dla mlodzieży. </TITLE>
 
 </HEAD>
 
@@ -27,14 +27,14 @@ Nazwisko: Królik<BR>
 
 <P>Nazywam się Roksana.
 Jestem osobą fikcyjną.
-Na mojej stronie będę polecać seriale mlodzieżowe,które oglądnęłam w ostatnim czasie. Będę chciała wam również polecić kilka z      wymienionych seriali ponieważ bardzo mi się one spodobały.Myślę, że wam również się spodobają.</P>
+Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostatnim czasie. Będę chciała wam również polecić kilka z      wymienionych filmów ponieważ bardzo mi się one spodobały.Myślę, że wam również się spodobają.</P>
 
 </TD>
 
 
 <TD>
  
-  <IMG SRC= 
+  <IMG SRC= >
  
  </TD>
 
@@ -42,26 +42,28 @@ Na mojej stronie będę polecać seriale mlodzieżowe,które oglądnęłam w ost
 
 
 
-<TD><P>Pierwszym serialem jaki chciałabym wam polecić jest "Shadowhunters". Opowiada on o dziewczynie, która prowadziła do swoich osiemnastych urodzin normalne życie. Jednak wszystko się zmieniło. Główna bohaterka odkryła, że jest Nocnym Łowcą. Dziewczyna wkracza w magiczny świat wraz ze swoimi przyjaciółmi.</P>         
+<TD><P>Pierwszym filmem jaki chciałabym wam polecić jest film pt:"Do wszystkich chłopców których kochałam". Jest to amerykańska komedia romantyczna, która miała swoją premierę 17 sierpnia 2018 roku.Nieśmiała Lara Jean pisze listy do chłopców, których darzyła sympatią. To był jej sposób na odreagowanie emocji, ale wkrótce niewinne zapiski trafiają do adresatów, a życie nastolatki wywraca się do góry nogami.</P>         
 
  </TD>
  
 
- <TD>
+<TD>
 
- <IMG SRC= 148349.jpg  >
+
 
 
 </TD>
 
   
-  
-  <TD>
-  
-   <TD><P>Kolejnym serialem jaki chciałabym wam polecić jest "Riverdale". Serial liczy 3 sezony.Akcja toczy się we współczesności i skupia się na życiu grupy nastolatków, którzy rozwiązują zagadki mrocznego miasteczka. Zarówno poznają jego tajemnice i przeszłość.</P> 
+   <TD>
+ 
+ 
+ <P>        </P> 
 
   
   </TD>
+  
+  
 </TABLE>
 
                                                                                                       
