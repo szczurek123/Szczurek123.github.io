@@ -1,4 +1,4 @@
-<HTML>
+ <HTML>
 <HEAD>
 <meta charset = "UTF-8">
 <meta name = "description" content = "Strona zawiera informacje na temat filmów, które ostatnio oglądałam.>
@@ -33,6 +33,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
  
  </TD>
 
+<TR style="font-size: 29px;">
 
 <TD>
   
@@ -45,7 +46,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
  </TR>
 
 
-<TR style ="font-size: 30px;">
+<TR style ="font-size: 25px;">
   
   
  <TD> 
@@ -63,7 +64,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 <TD>
   
   
-  <IMG SRC= 45734196_2578309362187195_331659496310964224_n.jpg HEIGHT="300" WEIGHT="250" >
+  <IMG SRC= 45734196_2578309362187195_331659496310964224_n.jpg HEIGHT="400" WEIGHT="350" >
   
  
 </TD>
