@@ -7,19 +7,20 @@
 
 </HEAD>
 
-<BODY style="font-size: 60px;">
+<BODY style="font-size: 90px;">
 
-<H1 style="text-align: center; color: khaki; background-color: white; ">Strona o filmach dla młodzieży.</H1><BR>
+<H1 style="text-align: center; color: silver; background-color: white; ">Strona o filmach dla młodzieży.</H1><BR>
 
 <TR style="font-size: 40px;">
 
-Moje imię: Roksana<BR>
-Nazwisko: Królik<BR>
-<H1 style="text-align: center; color: khaki; background-color: white; ">Moje imię: Roksana Nazwisko: Królik.</H1><BR>
+
+<H1 style="text-align: center; color: thistle; background-color: white; ">
+Moje imię: Roksana 
+Nazwisko: Królik.</H1><BR>
 
  </TR>
 
- <TR style="font-size: 30px;" >
+ <TR style="font-size: 50px;" >
 
 <TD>
  <center>
@@ -34,18 +35,18 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 </TR>
 
 <TABLE>
-     <TR style="font-size: 30px;">
+     <TR style="font-size: 25px;">
 
 <TD>
  
-  <IMG SRC= 45809601_942289135965733_5688116822667165696_n.jpg  >
+  <IMG SRC= 45809601_942289135965733_5688116822667165696_n.jpg HEIGHT="300" WEIGHT="250" >
  
  </TD>
 
 
 <TD>
   <CENTER>
-    
+    <H1 style="text-align: center; color: silver; background-color: white; "> </H1><BR>
   
   <P>Pierwszym filmem jaki chciałabym wam polecić jest film pt:"Do wszystkich chłopców których kochałam". Jest to amerykańska komedia romantyczna, która miała swoją premierę 17 sierpnia 2018 roku.Nieśmiała Lara Jean pisze listy do chłopców, których darzyła sympatią. To był jej sposób na odreagowanie emocji, ale wkrótce niewinne zapiski trafiają do adresatów, a życie nastolatki wywraca się do góry nogami.</P>   
       </center>
@@ -55,13 +56,14 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
  </TR>
 
 
-<TR style ="font-size: 30px;">
+<TR style ="font-size: 25px;">
   
   
  <TD> 
   <center>
   
-
+<H1 style="text-align: center; color: silver; background-color: white; "> </H1><BR>
+ 
   <P>Drugim filmem jaki serdecznie polecam jest "The kissing booth". Opowiada on o głównej bohaterce Elle, która przyjaźni się od zawsze z Lee. Zakochuje się w chłopcu o imieniu Noah przez tytułową, całuśną budkę, jednak ich relacja to typ zakazanej miłości. </P>
   
   </center>
@@ -73,7 +75,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 <TD>
   
   
-  <IMG SRC= 45734196_2578309362187195_331659496310964224_n.jpg HEIGHT="250" WEIGHT="200" >
+  <IMG SRC= 45734196_2578309362187195_331659496310964224_n.jpg HEIGHT="300" WEIGHT="250" >
   
  
 </TD>
