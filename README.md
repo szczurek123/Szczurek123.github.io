@@ -43,15 +43,14 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 
 </TD>
 
-  
-  
- <TD> 
+<TR>
+<TD> 
              
 <P>Drugim filmem jaki serdecznie polecam jest <B>"The kissing booth".</B> Opowiada on o głównej bohaterce Elle, która przyjaźni się od zawsze z Lee. Zakochuje się w chłopcu o imieniu Noah przez tytułową, całuśną budkę, jednak ich relacja to typ zakazanej miłości. </P>
 
   
 
-  
+  </TR>
 </TD>
 
 
