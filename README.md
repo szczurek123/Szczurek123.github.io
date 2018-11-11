@@ -17,13 +17,15 @@
 
  
 <TD>
- < style= "font-size: 30px;" >
+ < TR style= "font-size: 30px;" >
           
  <center>
  <P>Nazywam się Roksana.
 Jestem osobą fikcyjną.
 Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostatnim czasie. Zyskały one bardzo dużą popularność wśród młodzieży. Są one polecane przez wiele znanych osób. Mi osobiście bardzo się podobają. Myślę, że wam również się spodobają.</P>
  </center>
+ 
+ </TR>
 
 </TD>
 
