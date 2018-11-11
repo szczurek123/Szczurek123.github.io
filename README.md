@@ -1,4 +1,4 @@
- <HTML>
+<HTML>
 <HEAD>
 <meta charset = "UTF-8">
 <meta name = "description" content = "Roksana Królik">
@@ -26,13 +26,17 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 </TD>
 
 <TABLE>
+ 
+ <TR>
 
 <TD>
  
 <IMG SRC= 45809601_942289135965733_5688116822667165696_n.jpg  >
  
 </TD>
-
+ </TR>
+ 
+ <TR>
 <TD>
  
  
@@ -42,6 +46,8 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
   
 
 </TD>
+
+</TR>
 
 <TR>
 <TD> 
