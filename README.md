@@ -1,4 +1,4 @@
-<HTML>
+ <HTML>
 <HEAD>
 <meta charset = "UTF-8">
 <meta name = "description" content = "Roksana Królik">
@@ -9,7 +9,7 @@
 
 <BODY style="font-size: 60px;">
 
-<H1 style="text-align: center; color: silver; background-color: white; "><b>Strona o filmach dla młodzieży.</b></H1><BR>
+<H1 style="text-align: center; color: silver; background-color: white; "><b> Strona o filmach dla młodzieży. </b></H1><BR>
 
 
  </TR>
