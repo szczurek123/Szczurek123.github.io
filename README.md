@@ -53,7 +53,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
   </TR>
 </TD>
 
-
+<TR>
 
 <TD>
   
@@ -63,7 +63,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
  
 </TD>
 
-
+</TR>
   
   
 </TABLE>
