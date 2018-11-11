@@ -9,11 +9,11 @@
 
 <BODY style="font-size: 35px;">
 
-<H1 style="text-align: center; color: RED; background-color: SkyBlue; "><b> Strona o filmach dla młodzieży. </b></H1><BR>
+<H1 style="text-align: center; color: Black; background-color: SkyBlue; "><b> Strona o filmach dla młodzieży. </b></H1><BR>
  
 <TD>
  
- <TR stle="font-size: 30px;">
+ <TR stle="font-size: 22px;">
  
 <center>
 <P>Nazywam się Roksana.
@@ -35,12 +35,10 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 
 <TD> 
  
-<TR style="font-size: 25px;">
+
   
-  <P> <CENTER> Pierwszym filmem jaki chciałabym wam polecić jest film pt:<B>"Do wszystkich chłopców których kochałam".</B> Jest to amerykańska komedia romantyczna, która miała swoją premierę 17 sierpnia 2018 roku.Nieśmiała Lara Jean pisze listy do chłopców, których darzyła sympatią. To był jej sposób na odreagowanie emocji, ale wkrótce niewinne zapiski trafiają do adresatów, a życie nastolatki wywraca się do góry nogami. </CENTER> </P>
+  <P><TR style="font-size: 15px;"> <CENTER> Pierwszym filmem jaki chciałabym wam polecić jest film pt:<B>"Do wszystkich chłopców których kochałam".</B> Jest to amerykańska komedia romantyczna, która miała swoją premierę 17 sierpnia 2018 roku.Nieśmiała Lara Jean pisze listy do chłopców, których darzyła sympatią. To był jej sposób na odreagowanie emocji, ale wkrótce niewinne zapiski trafiają do adresatów, a życie nastolatki wywraca się do góry nogami. </CENTER></TR> </P>
   
-</TR>
-    
 
 </TD>
 
