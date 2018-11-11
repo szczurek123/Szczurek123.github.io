@@ -3,7 +3,7 @@
 <meta charset = "UTF-8">
 <meta name = "description" content = "Roksana Królik">
 
-<TITLE>Strona o filmach dla mlodzieży.</TITLE>
+<TITLE> Strona o filmach dla mlodzieży.  </TITLE>
 
 </HEAD>
 
