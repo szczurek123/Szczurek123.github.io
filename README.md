@@ -13,7 +13,7 @@
  
 <TD>
  
- <TR stle="font-size: 22px;">
+ <TR style="font-size: 22px;">
  
 <center>
 <P>Nazywam się Roksana.
@@ -26,17 +26,13 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 </TD>
 
 <TABLE>
- 
- <TR>
 
 <TD>
  
 <IMG SRC= 45809601_942289135965733_5688116822667165696_n.jpg  >
  
 </TD>
- </TR>
  
- <TR>
 <TD>
  
  
@@ -47,19 +43,14 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 
 </TD>
 
-</TR>
 
-<TR>
 <TD> 
              
 <P>Drugim filmem jaki serdecznie polecam jest <B>"The kissing booth".</B> Opowiada on o głównej bohaterce Elle, która przyjaźni się od zawsze z Lee. Zakochuje się w chłopcu o imieniu Noah przez tytułową, całuśną budkę, jednak ich relacja to typ zakazanej miłości. </P>
 
-  
-
-  </TR>
+ 
 </TD>
 
-<TR>
 
 <TD>
   
@@ -69,7 +60,6 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
  
 </TD>
 
-</TR>
   
   
 </TABLE>
