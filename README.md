@@ -13,7 +13,7 @@
  
 <TD>
  
- <TR style="font-size: 22px;">
+ <TR style="font-size:20px;">
  
 <center>
 <P>Nazywam się Roksana.
