@@ -32,8 +32,6 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 <IMG SRC= 45809601_942289135965733_5688116822667165696_n.jpg  >
  
 </TD>
- 
-<TR style="font-size: 23px;">
 
  
  <TD>
