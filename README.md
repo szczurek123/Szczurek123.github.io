@@ -8,14 +8,12 @@
 
 </HEAD>
 
-<BODY>
- <style="font-size:25px;">
+<BODY style="font-size:30px;">
 
 <H1 style="text-align: center; color: LightCoral; background-color: Black; "><b> Filmy młodzieżowe </b></H1><BR>
  
- 
+ <font-size="20px;">
 <TD>
- <font size="25px;">
  
 <center>
 
@@ -25,10 +23,9 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 
 </center>
 
-</font>
-
 </TD>
-
+ 
+ <BODY style="font-size:30px;">
 <TABLE>
 
 <TD>
