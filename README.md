@@ -3,17 +3,17 @@
 <meta charset = "UTF-8">
 <meta name = "description" content = "Roksana Królik">
 
-<TITLE> Strona o filmach dla mlodzieży.  </TITLE>
+<TITLE> Filmy młodzieżowe  </TITLE>
 
 </HEAD>
 
-<BODY style="font-size: 35px;">
+<BODY style="font-size:35px;">
 
-<H1 style="text-align: center; color: Black; background-color: SkyBlue; "><b> Strona o filmach dla młodzieży. </b></H1><BR>
+<H1 style="text-align: center; color: Black; background-color: SkyBlue; "><b> Filmy młodzieżowe </b></H1><BR>
  
 <TD>
  
- <TR style="font-size:20px;">
+ <TR style="font-size:17px;">
  
 <center>
 <P>Nazywam się Roksana.
