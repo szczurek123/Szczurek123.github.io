@@ -40,7 +40,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
  
  <TD>
  
- <TR style="font-size: 25px;">
+ 
 <CENTER>
  
  <P>Pierwszym filmem jaki chciałabym wam polecić jest film pt:<B>"Do wszystkich chłopców których kochałam".</B> Jest to amerykańska komedia romantyczna.Nieśmiała Lara Jean pisze listy do chłopców, których darzyła sympatią. To był jej sposób na odreagowanie emocji, ale wkrótce niewinne zapiski trafiają do adresatów. </P> 
@@ -48,7 +48,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
  </CENTER>
   
 </TD>
-</TR>
+
 
 <TR style="font-size: 30px;">
 
