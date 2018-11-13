@@ -9,17 +9,20 @@
 
 <BODY style="font-size:35px;">
 
-<H1 style="text-align: center; color: LightCoral; background-color: SkyBlue; "><b> Filmy młodzieżowe </b></H1><BR>
+<H1 style="text-align: center; color: LightCoral; background-color: Black; "><b> Filmy młodzieżowe </b></H1><BR>
  
 <TD>
+ <font size="25px;">
  
 <center>
- <TR style="font-size:17px;">
+
 <P>Nazywam się Roksana.
 Jestem osobą fikcyjną.
 Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostatnim czasie. Zyskały one bardzo dużą popularność wśród młodzieży. Są one polecane przez wiele znanych osób. Mi osobiście bardzo się podobają. Myślę, że wam również się spodobają.</P>
- </TR>
+
 </center>
+
+</font>
 
 </TD>
 
@@ -33,12 +36,14 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 
  
  <TD>
+ <font size="25px;">
 
 <CENTER>
- <TR style="font-size:23px;">
+ 
  <P>Pierwszym filmem jaki chciałabym wam polecić jest film pt:<B>"Do wszystkich chłopców których kochałam".</B> Jest to amerykańska komedia romantyczna, która miała swoją premierę 17 sierpnia 2018 roku.Nieśmiała Lara Jean pisze listy do chłopców, których darzyła sympatią. To był jej sposób na odreagowanie emocji, ale wkrótce niewinne zapiski trafiają do adresatów, a życie nastolatki wywraca się do góry nogami. </P> 
- </TR>
+
  </CENTER>
+ </font>
   
 </TD>
 
@@ -47,9 +52,9 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 <TD> 
  
  <CENTER>      
- <TR style="font-size:23px;">
+
 <P>Drugim filmem jaki serdecznie polecam jest <B>"The kissing booth".</B> Opowiada on o głównej bohaterce Elle, która przyjaźni się od zawsze z Lee. Zakochuje się w chłopcu o imieniu Noah przez tytułową, całuśną budkę, jednak ich relacja to typ zakazanej miłości. </P>
-</TR>
+
 </CENTER>
  
 </TD>
