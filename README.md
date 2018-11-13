@@ -11,9 +11,11 @@
 <BODY style="font-size:40px;">
 
 <H1 style="text-align: center; color: LightCoral; background-color: Black; "><b> Filmy młodzieżowe </b></H1><BR>
- 
+
+</BODY>
  
 <TD>
+
  
 <center>
 
@@ -26,7 +28,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 </TD>
  
 <TABLE>
- <TR style="font-size: 23px;">
+
  
 
 <TD>
@@ -72,7 +74,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 </TABLE>
 
 <TR>
-  <P>Wszystkie powyżęj przedstawione informacje są oparte na źrółach takich jak wikipedia oraz zdjecia zostały pobrane z internetu. </P>
+  <P>Wszystkie powyżej przedstawione informacje są oparte na źródłach takich jak wikipedia. Zdjecia zostały pobrane z internetu. </P>
  </TR>
 
                                                                                                       
