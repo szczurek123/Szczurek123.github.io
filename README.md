@@ -10,7 +10,7 @@
 
 <BODY style="font-size:40px;">
 
-<H1 style="text-align: center; color: LightCoral; background-color: Black;  bgcolor=" LightCoral;" "><b> Filmy młodzieżowe </b></H1><BR>
+<H1 style="text-align: center; color: LightCoral; background-color: Black; bgcolor="LightCoral";" "><b> Filmy młodzieżowe </b></H1><BR>
 
 </BODY>
  
@@ -21,7 +21,7 @@
 
 <P>Nazywam się Roksana.
 Jestem osobą fikcyjną.
-Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostatnim czasie. Zyskały one bardzo dużą popularność wśród młodzieży. Są one polecane przez wiele znanych osób. Mi osobiście bardzo się podobają. Myślę, że wam również się spodobają. </P>
+Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostatnim czasie. Zyskały one bardzo dużą popularność wśród młodzieży.  Mi osobiście bardzo się podobają. Myślę, że wam również się spodobają. </P>
 
 </center>
 
@@ -41,7 +41,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
  <TD>
 <CENTER>
  
- <P>Pierwszym filmem jaki chciałabym wam polecić jest film pt:<B>"Do wszystkich chłopców których kochałam".</B> Jest to amerykańska komedia romantyczna, która miała swoją premierę 17 sierpnia 2018 roku.Nieśmiała Lara Jean pisze listy do chłopców, których darzyła sympatią. To był jej sposób na odreagowanie emocji, ale wkrótce niewinne zapiski trafiają do adresatów, a życie nastolatki wywraca się do góry nogami. </P> 
+ <P>Pierwszym filmem jaki chciałabym wam polecić jest film pt:<B>"Do wszystkich chłopców których kochałam".</B> Jest to amerykańska komedia romantyczna.Nieśmiała Lara Jean pisze listy do chłopców, których darzyła sympatią. To był jej sposób na odreagowanie emocji, ale wkrótce niewinne zapiski trafiają do adresatów. </P> 
 
  </CENTER>
   
