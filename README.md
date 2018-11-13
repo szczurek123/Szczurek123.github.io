@@ -8,7 +8,7 @@
 
 </HEAD>
 
-<BODY style="font-size:35 px;">
+<BODY style="font-size:40 px;">
 
 <H1 style="text-align: center; color: PeachPuff; background-color: White;"><b> Filmy młodzieżowe </b></H1><BR>
 
