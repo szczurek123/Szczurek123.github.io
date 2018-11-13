@@ -4,15 +4,15 @@
 <meta charset = "UTF-8">
 <meta name = "description" content = "Roksana Królik">
 
-<TITLE> Filmy młodzieżowe  </TITLE>
+<TITLE>Filmy młodzieżowe</TITLE>
 
 </HEAD>
 
-<BODY style="font-size:30px;">
+<BODY style="font-size:40px;">
 
 <H1 style="text-align: center; color: LightCoral; background-color: Black; "><b> Filmy młodzieżowe </b></H1><BR>
  
- <font-size="20px;">
+ 
 <TD>
  
 <center>
@@ -25,8 +25,9 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 
 </TD>
  
- <BODY style="font-size:30px;">
 <TABLE>
+ <TR style="font-size: 23px;">
+ 
 
 <TD>
  
@@ -43,22 +44,19 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
  <P>Pierwszym filmem jaki chciałabym wam polecić jest film pt:<B>"Do wszystkich chłopców których kochałam".</B> Jest to amerykańska komedia romantyczna, która miała swoją premierę 17 sierpnia 2018 roku.Nieśmiała Lara Jean pisze listy do chłopców, których darzyła sympatią. To był jej sposób na odreagowanie emocji, ale wkrótce niewinne zapiski trafiają do adresatów, a życie nastolatki wywraca się do góry nogami. </P> 
 
  </CENTER>
- </font>
   
 </TD>
 
-<TR>
+<TR style="font-size: 23px;">
 
 <TD> 
- <font size="20px;">
  
  <CENTER>      
 
 <P>Drugim filmem jaki serdecznie polecam jest <B>"The kissing booth".</B> Opowiada on o głównej bohaterce Elle, która przyjaźni się od zawsze z Lee. Zakochuje się w chłopcu o imieniu Noah przez tytułową, całuśną budkę, jednak ich relacja to typ zakazanej miłości. </P>
 
 </CENTER>
-</font>
- 
+
 </TD>
 
 <TD>
