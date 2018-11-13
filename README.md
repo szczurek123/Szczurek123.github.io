@@ -1,4 +1,4 @@
- 
+  
 <HTML>
 <HEAD>
 <meta charset = "UTF-8">
@@ -8,7 +8,7 @@
 
 </HEAD>
 
-<BODY style="font-size:35px;">
+<BODY style="font-size:35 px;">
 
 <H1 style="text-align: center; color: PeachPuff; background-color: White;"><b> Filmy młodzieżowe </b></H1><BR>
 
@@ -50,7 +50,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 </TD>
 
 
-<TR style="font-size: 30px;">
+<TR style="font-size: 30 px;">
 
 <TD> 
  
@@ -75,7 +75,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 </TABLE>
 
 <TR>
-  <P>Wszystkie powyżej przedstawione informacje są oparte na źródłach takich jak wikipedia. Zdjecia zostały pobrane z internetu. </P>
+  <P>Wszystkie powyżej przedstawione informacje oparte są na wiadomościach zamieszczonych w wikipedii. Zdjecia zostały pobrane z internetu. </P>
  </TR>
 
                                                                                                       
