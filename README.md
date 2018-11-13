@@ -10,7 +10,7 @@
 
 <BODY style="font-size:35px;">
 
-<H1 style="text-align: center; color: LightCoral; background-color: Black; bgcolor="LightCoral";" "><b> Filmy młodzieżowe </b></H1><BR>
+<H1 style="text-align: center; bgcolor="lightCoral"  color: LightCoral; background-color: Black; bgcolor="LightCoral";" "><b> Filmy młodzieżowe </b></H1><BR>
 
 </BODY>
  
