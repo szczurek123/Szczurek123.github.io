@@ -9,11 +9,10 @@
 </HEAD>
 
 <BODY>
- <style="font-size:35px;">
+ <style="font-size:25px;">
 
 <H1 style="text-align: center; color: LightCoral; background-color: Black; "><b> Filmy młodzieżowe </b></H1><BR>
  
- </style>
  
 <TD>
  <font size="25px;">
@@ -22,7 +21,7 @@
 
 <P>Nazywam się Roksana.
 Jestem osobą fikcyjną.
-Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostatnim czasie. Zyskały one bardzo dużą popularność wśród młodzieży. Są one polecane przez wiele znanych osób. Mi osobiście bardzo się podobają. Myślę, że wam również się spodobają.</P>
+Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostatnim czasie. Zyskały one bardzo dużą popularność wśród młodzieży. Są one polecane przez wiele znanych osób. Mi osobiście bardzo się podobają. Myślę, że wam również się spodobają. </P>
 
 </center>
 
@@ -77,6 +76,9 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
   
 </TABLE>
 
+<TR>
+  <P>Wszystkie powyżęj przedstawione informacje są oparte na źrółach takich jak wikipedia oraz zdjecia zostały pobrane z internetu. </P>
+ </TR>
 
                                                                                                       
 </HTML>
