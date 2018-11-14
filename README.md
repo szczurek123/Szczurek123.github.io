@@ -10,7 +10,7 @@
 
 <BODY style="font-size:40 px;">
 
-<H1 style="text-align: center; color: PeachPuff; background-color: White;"><b> Filmy młodzieżowe </b></H1><BR>
+<H1 style="text-align: center; color: Plum; background-color: White;"><b> Filmy młodzieżowe </b></H1><BR>
 
 </BODY>
  
@@ -27,7 +27,7 @@ Na mojej stronie będę polecać filmy mlodzieżowe,które oglądnęłam w ostat
 
 </TD>
  
-<TABLE bgcolor="PeachPuff">
+<TABLE bgcolor="Plum">
 
  
 
